@@ -1,0 +1,17 @@
+thead>tr>th {
+    cursor: pointer;
+}
+
+.navbar{
+    margin-bottom: 20px;
+}
+
+
+/* .ng-hide:not(.ng-hide-animate) {
+
+    display: block!important;
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  } 
+  */
